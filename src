@@ -1,0 +1,3 @@
+mkdir src
+mv calculator.py src/
+mv test_calculator.py src/
